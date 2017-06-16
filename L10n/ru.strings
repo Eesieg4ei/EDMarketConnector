@@ -476,7 +476,7 @@
 "Trade" = "Торговый";
 
 /* Explorer rank. [stats.py] */
-"Trailblazer" = "Путешественние";
+"Trailblazer" = "Путешественник";
 
 /* Appearance theme setting. [prefs.py] */
 "Transparent" = "Прозрачный";
